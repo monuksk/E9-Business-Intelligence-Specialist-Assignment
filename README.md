@@ -9,7 +9,7 @@ This project focuses on analyzing equipment data to uncover trends, seasonal pat
 - **`equipment_data.csv`**: Contains raw data on equipment usage, including various variables relevant to the analysis.
 - **`leads_data.csv`**: Includes lead information that may be correlated with equipment usage patterns.
 - **`users_data.csv`**: Contains user data, useful for segmenting and refining the analysis.
-- **`E9-Business Intelligence Specialist-Monu Kaushik`**: Documentation of the project, including the code and outputs used in the analysis.
+- **`E9-Business Intelligence Specialist-Monu Kaushik.ipynb`**: Documentation of the project, including the code and outputs used in the analysis.
 
 ## Analysis and Methods
 
