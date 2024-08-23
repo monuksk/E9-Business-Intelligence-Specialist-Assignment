@@ -39,13 +39,6 @@ Using the information in the `E9-BIS-Scenario.pdf`, we developed scenarios that 
 - **Seasonal Patterns**: Significant seasonal effects were found, with higher usage in specific months.
 - **Scenario Impact**: Various business scenarios were modeled, demonstrating how changes in market conditions could affect equipment usage.
 
-## How to Use the Code
-
-To replicate the analysis:
-1. Clone the repository.
-2. Ensure you have Python installed, along with the necessary libraries (e.g., `pandas`, `numpy`, `statsmodels`).
-3. Run the analysis scripts provided in the `EQUIP9 - Monu Kaushik.html` file or manually execute the code snippets provided.
-
 ## Conclusion
 
 The project provides valuable insights into equipment usage trends and seasonal patterns, enabling better decision-making in inventory management and resource planning. The scenarios outlined offer a robust framework for forecasting future trends under different business conditions.
