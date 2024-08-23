@@ -1,0 +1,501 @@
+Equipment ID,Equipment Type,Date Onboarded,City
+1,Bulldozer,21-01-2021,Phoenix
+2,Excavator,03-06-2023,Chicago
+3,Bulldozer,25-04-2021,Chicago
+4,Excavator,11-02-2021,Los Angeles
+5,Loader,16-06-2022,Phoenix
+6,Excavator,11-12-2021,New York
+7,Excavator,30-09-2021,New York
+8,Excavator,10-11-2022,Chicago
+9,Crane,25-03-2022,Chicago
+10,Excavator,06-07-2022,Houston
+11,Bulldozer,21-07-2020,Phoenix
+12,Excavator,20-02-2021,Chicago
+13,Bulldozer,19-02-2021,Houston
+14,Excavator,25-03-2020,Phoenix
+15,Crane,15-06-2020,New York
+16,Loader,18-01-2021,Houston
+17,Excavator,12-04-2021,Phoenix
+18,Excavator,31-12-2022,Houston
+19,Crane,20-03-2022,Chicago
+20,Excavator,23-09-2022,Los Angeles
+21,Bulldozer,17-04-2021,New York
+22,Excavator,19-09-2022,Chicago
+23,Excavator,05-07-2023,Chicago
+24,Loader,01-10-2020,Phoenix
+25,Loader,09-11-2022,Houston
+26,Excavator,04-05-2021,New York
+27,Crane,21-11-2020,Chicago
+28,Loader,12-06-2021,Phoenix
+29,Excavator,10-06-2022,New York
+30,Loader,29-03-2020,Houston
+31,Excavator,30-04-2021,Chicago
+32,Loader,08-12-2021,Chicago
+33,Loader,15-12-2020,Chicago
+34,Bulldozer,12-01-2023,New York
+35,Excavator,21-01-2021,New York
+36,Excavator,27-03-2020,New York
+37,Excavator,02-11-2020,New York
+38,Excavator,23-03-2023,Phoenix
+39,Loader,15-03-2021,Los Angeles
+40,Bulldozer,09-01-2022,Phoenix
+41,Bulldozer,20-09-2020,Chicago
+42,Crane,03-09-2022,Phoenix
+43,Excavator,04-01-2022,Houston
+44,Crane,24-02-2021,New York
+45,Loader,07-05-2021,Houston
+46,Crane,24-09-2021,Houston
+47,Excavator,19-09-2022,Chicago
+48,Bulldozer,14-02-2021,New York
+49,Bulldozer,21-06-2020,Houston
+50,Excavator,04-01-2020,Chicago
+51,Loader,03-05-2022,New York
+52,Excavator,12-09-2022,Los Angeles
+53,Loader,07-02-2023,Chicago
+54,Bulldozer,26-11-2022,Phoenix
+55,Loader,05-08-2021,New York
+56,Excavator,20-11-2022,Houston
+57,Excavator,15-01-2021,Houston
+58,Excavator,15-07-2023,Phoenix
+59,Loader,31-10-2022,Phoenix
+60,Loader,09-12-2020,Houston
+61,Loader,14-06-2020,New York
+62,Bulldozer,30-11-2021,Chicago
+63,Crane,07-12-2020,Phoenix
+64,Crane,08-11-2022,Phoenix
+65,Excavator,06-09-2022,Phoenix
+66,Bulldozer,22-04-2023,Los Angeles
+67,Loader,28-06-2021,New York
+68,Excavator,30-10-2022,New York
+69,Bulldozer,10-07-2020,New York
+70,Excavator,15-11-2020,New York
+71,Bulldozer,02-08-2021,New York
+72,Bulldozer,19-04-2021,Houston
+73,Crane,28-09-2021,Phoenix
+74,Excavator,02-03-2021,Houston
+75,Loader,18-12-2022,Los Angeles
+76,Crane,30-12-2023,Chicago
+77,Crane,06-04-2020,Phoenix
+78,Loader,10-05-2021,Los Angeles
+79,Bulldozer,22-10-2021,Houston
+80,Loader,25-07-2023,Chicago
+81,Excavator,12-07-2023,Los Angeles
+82,Loader,09-01-2020,Chicago
+83,Bulldozer,01-04-2021,Los Angeles
+84,Loader,29-09-2020,Houston
+85,Bulldozer,28-07-2022,Chicago
+86,Bulldozer,28-10-2022,Los Angeles
+87,Excavator,26-07-2020,Houston
+88,Loader,20-02-2023,Phoenix
+89,Loader,22-11-2022,Houston
+90,Excavator,22-07-2020,Houston
+91,Bulldozer,01-06-2021,Phoenix
+92,Loader,31-05-2021,Houston
+93,Excavator,18-03-2021,Phoenix
+94,Bulldozer,19-11-2021,Phoenix
+95,Excavator,29-04-2022,Phoenix
+96,Loader,12-04-2022,Los Angeles
+97,Excavator,04-12-2020,Chicago
+98,Crane,05-03-2023,Los Angeles
+99,Bulldozer,21-01-2021,Phoenix
+100,Crane,14-11-2022,Chicago
+101,Crane,20-05-2021,Chicago
+102,Bulldozer,10-09-2023,Phoenix
+103,Bulldozer,10-11-2021,Chicago
+104,Excavator,23-09-2023,Chicago
+105,Bulldozer,20-11-2021,Los Angeles
+106,Crane,03-06-2022,Chicago
+107,Crane,23-01-2023,Phoenix
+108,Loader,14-09-2021,New York
+109,Bulldozer,15-03-2023,New York
+110,Crane,11-06-2022,New York
+111,Loader,10-08-2022,Phoenix
+112,Loader,08-06-2023,New York
+113,Excavator,22-02-2022,Los Angeles
+114,Crane,09-05-2021,Phoenix
+115,Excavator,27-11-2022,Phoenix
+116,Crane,19-12-2023,Phoenix
+117,Excavator,16-01-2022,Chicago
+118,Excavator,12-03-2021,Chicago
+119,Bulldozer,23-10-2023,Chicago
+120,Excavator,10-12-2020,Houston
+121,Bulldozer,29-03-2023,Los Angeles
+122,Loader,03-07-2021,Phoenix
+123,Crane,30-03-2022,Phoenix
+124,Loader,24-06-2021,Chicago
+125,Crane,23-05-2020,Phoenix
+126,Loader,10-08-2021,Phoenix
+127,Crane,18-10-2021,New York
+128,Excavator,10-12-2020,Phoenix
+129,Crane,16-07-2023,Houston
+130,Crane,26-11-2021,Chicago
+131,Loader,24-09-2020,Los Angeles
+132,Loader,17-06-2020,Los Angeles
+133,Loader,02-02-2020,New York
+134,Bulldozer,11-01-2021,Los Angeles
+135,Bulldozer,22-05-2023,Los Angeles
+136,Crane,27-01-2021,Chicago
+137,Crane,03-05-2021,Chicago
+138,Excavator,22-12-2021,Houston
+139,Excavator,03-08-2022,New York
+140,Crane,18-11-2022,Los Angeles
+141,Bulldozer,08-02-2020,Houston
+142,Crane,11-04-2023,New York
+143,Excavator,06-11-2022,Los Angeles
+144,Bulldozer,15-12-2022,Los Angeles
+145,Bulldozer,13-08-2020,Chicago
+146,Excavator,07-03-2020,Phoenix
+147,Crane,05-05-2023,New York
+148,Loader,14-04-2022,Los Angeles
+149,Crane,12-11-2022,New York
+150,Crane,25-09-2022,Houston
+151,Excavator,24-08-2020,Houston
+152,Bulldozer,14-08-2022,Phoenix
+153,Excavator,07-07-2022,Los Angeles
+154,Crane,07-03-2023,Chicago
+155,Loader,17-04-2021,Los Angeles
+156,Loader,06-07-2021,New York
+157,Loader,25-11-2021,Houston
+158,Excavator,06-06-2023,New York
+159,Bulldozer,12-11-2020,Phoenix
+160,Excavator,20-08-2021,Houston
+161,Loader,06-02-2022,Chicago
+162,Crane,04-06-2022,Houston
+163,Bulldozer,14-07-2021,Los Angeles
+164,Excavator,09-05-2023,Los Angeles
+165,Excavator,14-09-2020,Houston
+166,Bulldozer,16-04-2023,Phoenix
+167,Bulldozer,26-01-2022,Los Angeles
+168,Crane,02-05-2020,Los Angeles
+169,Bulldozer,07-12-2020,Chicago
+170,Crane,09-04-2023,Houston
+171,Loader,18-12-2022,Los Angeles
+172,Loader,16-09-2020,Phoenix
+173,Excavator,28-10-2023,New York
+174,Loader,04-04-2020,Houston
+175,Loader,22-02-2023,Chicago
+176,Crane,10-02-2020,Los Angeles
+177,Excavator,10-09-2020,Phoenix
+178,Bulldozer,07-01-2020,Houston
+179,Excavator,28-12-2021,Phoenix
+180,Loader,09-03-2020,Phoenix
+181,Bulldozer,09-01-2023,Chicago
+182,Excavator,25-06-2021,Houston
+183,Excavator,09-07-2023,Los Angeles
+184,Excavator,29-03-2020,Chicago
+185,Excavator,16-05-2023,Los Angeles
+186,Crane,31-07-2020,New York
+187,Excavator,13-04-2022,Phoenix
+188,Loader,22-09-2020,New York
+189,Loader,30-06-2022,Phoenix
+190,Crane,19-10-2020,Chicago
+191,Bulldozer,15-05-2023,Los Angeles
+192,Bulldozer,28-11-2020,Los Angeles
+193,Loader,05-01-2023,Chicago
+194,Loader,04-08-2023,Houston
+195,Crane,01-10-2022,New York
+196,Bulldozer,16-02-2020,New York
+197,Bulldozer,13-09-2021,Los Angeles
+198,Excavator,08-05-2023,Los Angeles
+199,Excavator,02-03-2021,Los Angeles
+200,Excavator,28-07-2020,Chicago
+201,Crane,06-06-2022,Houston
+202,Loader,14-12-2023,New York
+203,Crane,02-06-2020,Phoenix
+204,Bulldozer,18-02-2021,Chicago
+205,Loader,08-10-2023,New York
+206,Excavator,26-03-2023,Houston
+207,Crane,08-07-2023,Chicago
+208,Crane,05-01-2023,New York
+209,Excavator,07-02-2022,Chicago
+210,Crane,09-09-2022,New York
+211,Excavator,28-02-2023,New York
+212,Bulldozer,01-08-2021,Houston
+213,Loader,09-01-2022,Phoenix
+214,Bulldozer,11-06-2020,Houston
+215,Bulldozer,04-11-2022,New York
+216,Excavator,09-06-2023,Chicago
+217,Crane,13-07-2020,Houston
+218,Bulldozer,25-06-2021,Phoenix
+219,Bulldozer,24-12-2020,New York
+220,Bulldozer,29-04-2022,Houston
+221,Crane,16-09-2023,Houston
+222,Crane,02-03-2021,Houston
+223,Excavator,11-05-2021,Houston
+224,Bulldozer,07-04-2022,Chicago
+225,Loader,30-04-2021,Phoenix
+226,Crane,07-12-2023,Phoenix
+227,Excavator,25-11-2020,New York
+228,Bulldozer,07-06-2022,Los Angeles
+229,Loader,17-09-2022,Chicago
+230,Crane,16-03-2023,New York
+231,Loader,15-09-2020,New York
+232,Crane,18-10-2020,Houston
+233,Excavator,22-05-2020,Los Angeles
+234,Loader,16-01-2022,Los Angeles
+235,Bulldozer,18-09-2021,Chicago
+236,Bulldozer,20-10-2023,Los Angeles
+237,Crane,30-03-2020,New York
+238,Bulldozer,20-12-2021,Los Angeles
+239,Loader,02-04-2023,Los Angeles
+240,Excavator,25-04-2021,Phoenix
+241,Crane,24-03-2020,New York
+242,Loader,05-01-2023,Los Angeles
+243,Crane,03-11-2021,Los Angeles
+244,Excavator,31-05-2021,Houston
+245,Crane,29-04-2021,Los Angeles
+246,Bulldozer,20-02-2022,Los Angeles
+247,Bulldozer,13-04-2020,Phoenix
+248,Crane,04-12-2020,New York
+249,Excavator,17-11-2021,Chicago
+250,Excavator,18-06-2022,New York
+251,Bulldozer,29-08-2021,Houston
+252,Excavator,10-08-2020,New York
+253,Crane,29-10-2022,Los Angeles
+254,Loader,12-12-2022,Houston
+255,Crane,05-01-2023,New York
+256,Bulldozer,17-05-2021,Houston
+257,Bulldozer,01-09-2023,Chicago
+258,Bulldozer,01-04-2022,New York
+259,Excavator,15-09-2021,Los Angeles
+260,Crane,13-06-2020,Houston
+261,Loader,26-07-2023,Phoenix
+262,Crane,16-11-2022,Houston
+263,Loader,29-12-2022,Phoenix
+264,Crane,26-05-2023,Los Angeles
+265,Bulldozer,20-10-2023,Chicago
+266,Loader,22-08-2023,Phoenix
+267,Crane,21-02-2023,Chicago
+268,Excavator,19-01-2020,Houston
+269,Excavator,04-07-2023,Los Angeles
+270,Crane,12-08-2023,Phoenix
+271,Bulldozer,11-11-2022,Houston
+272,Loader,15-09-2022,New York
+273,Crane,25-03-2021,Houston
+274,Excavator,05-07-2021,Chicago
+275,Loader,07-12-2022,Los Angeles
+276,Excavator,25-11-2021,Los Angeles
+277,Excavator,09-08-2021,Houston
+278,Crane,21-12-2021,New York
+279,Excavator,21-04-2023,Chicago
+280,Loader,29-12-2023,Houston
+281,Bulldozer,16-04-2020,Houston
+282,Crane,26-04-2023,Los Angeles
+283,Loader,14-02-2022,Chicago
+284,Crane,14-01-2023,New York
+285,Excavator,06-03-2023,Los Angeles
+286,Excavator,16-06-2022,Houston
+287,Loader,01-12-2020,Los Angeles
+288,Loader,29-08-2021,Los Angeles
+289,Bulldozer,17-04-2022,Phoenix
+290,Loader,24-08-2021,Los Angeles
+291,Loader,06-02-2021,Los Angeles
+292,Crane,23-06-2021,Chicago
+293,Excavator,31-12-2022,Los Angeles
+294,Loader,24-01-2020,New York
+295,Bulldozer,15-09-2021,Houston
+296,Loader,15-12-2022,Chicago
+297,Excavator,12-09-2022,Los Angeles
+298,Loader,10-08-2020,New York
+299,Crane,27-06-2020,Houston
+300,Excavator,10-03-2022,Chicago
+301,Loader,09-03-2021,New York
+302,Crane,03-03-2022,Los Angeles
+303,Excavator,02-06-2022,Phoenix
+304,Loader,06-05-2021,Phoenix
+305,Crane,27-04-2023,Chicago
+306,Bulldozer,20-03-2022,New York
+307,Crane,18-08-2022,Houston
+308,Bulldozer,23-02-2021,New York
+309,Loader,26-06-2023,Phoenix
+310,Crane,10-10-2021,Chicago
+311,Bulldozer,02-04-2023,Los Angeles
+312,Excavator,02-07-2023,New York
+313,Crane,20-04-2021,Phoenix
+314,Loader,11-12-2023,Houston
+315,Excavator,18-06-2020,Chicago
+316,Bulldozer,02-09-2023,Los Angeles
+317,Crane,22-06-2020,New York
+318,Crane,14-04-2021,Houston
+319,Loader,10-12-2020,Los Angeles
+320,Excavator,20-03-2021,Phoenix
+321,Crane,07-11-2022,Phoenix
+322,Crane,29-12-2022,Houston
+323,Excavator,23-09-2023,Phoenix
+324,Crane,19-09-2021,Chicago
+325,Excavator,14-08-2021,Houston
+326,Excavator,10-06-2021,Phoenix
+327,Excavator,31-03-2021,New York
+328,Loader,16-07-2023,Phoenix
+329,Excavator,21-03-2022,Chicago
+330,Excavator,06-07-2020,Los Angeles
+331,Bulldozer,17-10-2022,Los Angeles
+332,Bulldozer,11-12-2021,Phoenix
+333,Loader,12-06-2021,Los Angeles
+334,Excavator,09-03-2021,Phoenix
+335,Bulldozer,14-10-2020,Chicago
+336,Bulldozer,13-05-2021,Los Angeles
+337,Crane,29-10-2020,New York
+338,Excavator,27-03-2020,Phoenix
+339,Bulldozer,09-04-2022,Los Angeles
+340,Loader,13-03-2021,Chicago
+341,Crane,24-06-2021,Chicago
+342,Crane,11-11-2022,New York
+343,Excavator,12-04-2022,Chicago
+344,Excavator,07-03-2022,Chicago
+345,Crane,13-07-2021,Los Angeles
+346,Loader,31-01-2022,Phoenix
+347,Excavator,11-04-2021,Houston
+348,Excavator,29-01-2023,Chicago
+349,Crane,05-11-2021,Chicago
+350,Crane,15-11-2021,Houston
+351,Excavator,10-03-2023,Chicago
+352,Bulldozer,17-05-2020,Los Angeles
+353,Excavator,31-07-2021,Los Angeles
+354,Bulldozer,10-12-2021,Houston
+355,Crane,15-08-2020,Chicago
+356,Bulldozer,07-10-2020,Chicago
+357,Loader,14-11-2021,Phoenix
+358,Crane,07-04-2022,Chicago
+359,Excavator,06-03-2021,Los Angeles
+360,Excavator,29-11-2022,New York
+361,Crane,19-05-2023,New York
+362,Crane,28-10-2020,New York
+363,Loader,14-01-2023,New York
+364,Crane,21-11-2023,Chicago
+365,Excavator,30-06-2023,Chicago
+366,Loader,16-06-2021,Phoenix
+367,Excavator,07-02-2022,Chicago
+368,Bulldozer,05-11-2023,New York
+369,Crane,19-03-2021,Houston
+370,Bulldozer,22-11-2022,Houston
+371,Excavator,16-09-2020,Los Angeles
+372,Bulldozer,11-06-2023,Los Angeles
+373,Bulldozer,24-08-2023,Chicago
+374,Excavator,08-01-2022,Houston
+375,Excavator,06-03-2022,New York
+376,Crane,10-03-2020,New York
+377,Bulldozer,19-10-2023,New York
+378,Loader,09-09-2022,Chicago
+379,Loader,25-04-2021,Chicago
+380,Excavator,13-03-2023,Phoenix
+381,Excavator,24-01-2020,New York
+382,Bulldozer,22-08-2022,New York
+383,Excavator,19-12-2023,Chicago
+384,Loader,15-01-2022,Chicago
+385,Crane,24-04-2022,Phoenix
+386,Crane,13-04-2023,Phoenix
+387,Bulldozer,20-11-2020,Los Angeles
+388,Crane,03-10-2023,Houston
+389,Excavator,08-03-2022,New York
+390,Excavator,18-01-2020,New York
+391,Excavator,13-02-2020,Phoenix
+392,Excavator,03-06-2020,Phoenix
+393,Bulldozer,16-05-2022,Los Angeles
+394,Crane,10-07-2022,Houston
+395,Loader,01-11-2023,Los Angeles
+396,Crane,12-01-2022,Houston
+397,Excavator,26-11-2023,New York
+398,Loader,12-08-2020,Los Angeles
+399,Bulldozer,04-08-2020,Phoenix
+400,Excavator,31-01-2020,Los Angeles
+401,Excavator,18-12-2022,Los Angeles
+402,Loader,16-06-2022,New York
+403,Bulldozer,08-10-2023,Phoenix
+404,Loader,23-07-2022,Phoenix
+405,Bulldozer,20-03-2021,Chicago
+406,Excavator,12-06-2023,Chicago
+407,Crane,04-02-2023,Chicago
+408,Excavator,29-04-2023,New York
+409,Crane,13-06-2021,Los Angeles
+410,Crane,07-01-2022,Phoenix
+411,Bulldozer,23-05-2022,Phoenix
+412,Loader,19-07-2021,Los Angeles
+413,Bulldozer,22-06-2023,Phoenix
+414,Excavator,16-03-2020,Los Angeles
+415,Loader,30-06-2021,New York
+416,Crane,23-09-2020,New York
+417,Crane,12-11-2020,New York
+418,Excavator,18-02-2023,Los Angeles
+419,Loader,25-01-2020,Los Angeles
+420,Excavator,26-12-2023,Houston
+421,Excavator,08-06-2020,Phoenix
+422,Bulldozer,18-08-2021,Phoenix
+423,Excavator,11-02-2023,Houston
+424,Loader,18-06-2022,Houston
+425,Excavator,16-05-2021,New York
+426,Loader,04-04-2023,Houston
+427,Crane,09-10-2022,Los Angeles
+428,Excavator,03-12-2021,Chicago
+429,Loader,13-04-2023,Los Angeles
+430,Crane,01-01-2020,Houston
+431,Loader,10-01-2022,Phoenix
+432,Crane,14-01-2023,Los Angeles
+433,Bulldozer,15-11-2020,Phoenix
+434,Excavator,25-11-2023,Los Angeles
+435,Excavator,16-01-2021,Phoenix
+436,Crane,03-09-2023,Los Angeles
+437,Bulldozer,27-06-2023,Phoenix
+438,Loader,16-06-2022,Chicago
+439,Bulldozer,17-12-2021,New York
+440,Loader,03-07-2023,Los Angeles
+441,Loader,02-11-2020,Chicago
+442,Excavator,13-03-2023,New York
+443,Crane,25-01-2021,Los Angeles
+444,Excavator,07-04-2023,Chicago
+445,Excavator,16-09-2022,Chicago
+446,Excavator,24-10-2020,Chicago
+447,Loader,20-08-2020,Houston
+448,Excavator,27-09-2020,Phoenix
+449,Loader,19-12-2022,New York
+450,Crane,12-08-2023,Phoenix
+451,Loader,12-06-2023,Phoenix
+452,Loader,07-11-2021,Phoenix
+453,Bulldozer,06-12-2021,Chicago
+454,Excavator,21-08-2020,Phoenix
+455,Excavator,23-10-2023,Houston
+456,Excavator,24-04-2022,Los Angeles
+457,Excavator,09-06-2023,Chicago
+458,Bulldozer,05-05-2021,New York
+459,Bulldozer,17-05-2021,Los Angeles
+460,Bulldozer,08-06-2022,Los Angeles
+461,Bulldozer,14-08-2021,Los Angeles
+462,Excavator,15-01-2022,Phoenix
+463,Loader,05-11-2023,Phoenix
+464,Crane,03-03-2021,Chicago
+465,Bulldozer,27-11-2021,Phoenix
+466,Loader,07-10-2021,Phoenix
+467,Bulldozer,01-01-2022,Phoenix
+468,Excavator,10-03-2022,Chicago
+469,Excavator,29-12-2020,Chicago
+470,Loader,20-07-2020,Houston
+471,Loader,31-05-2022,Houston
+472,Loader,25-05-2020,Houston
+473,Excavator,15-04-2022,Houston
+474,Excavator,30-09-2021,Los Angeles
+475,Crane,14-05-2020,Los Angeles
+476,Loader,17-09-2021,Houston
+477,Crane,11-07-2023,Houston
+478,Bulldozer,04-03-2020,New York
+479,Crane,05-05-2021,Los Angeles
+480,Bulldozer,10-02-2020,New York
+481,Bulldozer,12-08-2023,New York
+482,Crane,23-10-2022,Phoenix
+483,Loader,01-07-2022,Chicago
+484,Bulldozer,01-09-2022,Los Angeles
+485,Loader,07-02-2023,Houston
+486,Excavator,29-05-2023,Houston
+487,Bulldozer,25-10-2023,Chicago
+488,Excavator,02-01-2021,Los Angeles
+489,Crane,30-12-2023,Houston
+490,Loader,06-07-2022,Houston
+491,Crane,24-10-2022,Phoenix
+492,Bulldozer,31-08-2020,New York
+493,Excavator,20-06-2022,Houston
+494,Bulldozer,14-06-2020,Los Angeles
+495,Crane,15-11-2022,Chicago
+496,Loader,19-11-2023,Phoenix
+497,Loader,06-11-2022,Los Angeles
+498,Bulldozer,28-12-2021,Phoenix
+499,Bulldozer,20-01-2023,New York
+500,Excavator,27-04-2021,Houston
